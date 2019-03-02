@@ -22,5 +22,5 @@ Maven pom.xml consist of :
 *   download and install Git 
 *   clone this repo
 
-## More info ##
+## More info ###
 For more informations see please [wiki pages](https://github.com/peterszatmary/code-quality-maven-project/wiki).
